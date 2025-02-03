@@ -10,3 +10,4 @@
 Codelus-Hub/Codelus-Hub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+![Codelus png](https://github.com/user-attachments/assets/86a3252a-56a6-410f-a829-d2eb69ee250d)
